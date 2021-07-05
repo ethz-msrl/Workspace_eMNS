@@ -1,0 +1,8 @@
+function f(i[2],by[2],A_vec[4]) 
+
+  c1 = A_vec[0] * i[0] + A_vec[1] * i[1] - by[0];
+  c2 = A_vec[2] * i[0] + A_vec[3] * i[1] - by[1];
+
+  return (c1,c2);
+  
+end
