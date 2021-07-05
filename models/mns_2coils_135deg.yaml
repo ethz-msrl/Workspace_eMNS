@@ -1,0 +1,44 @@
+System_Name: 2_Coils_135deg
+Coil_List:
+  - Coil_0
+  - Coil_1
+Coil_0:
+  Source_List:
+    - Src_0
+  Src_0:
+    A_Coeff: ~
+    B_Coeff:
+      - 1.e-4
+    Source_Direction:
+      - 0.92387953
+      - -0.38268343
+      - 0.
+    Source_Position:
+      - -0.13858193
+      - 0.05740251
+      - 0.
+Coil_1:
+  Source_List:
+    - Src_0
+  Src_0:
+    A_Coeff: ~
+    B_Coeff:
+      - 1.e-4
+    Source_Direction:
+      - -0.38268343
+      - 0.92387953
+      - 0.
+    Source_Position:
+      - 0.05740251
+      - -0.13858193
+      - 0.
+Workspace_Dimensions:
+  -
+    - -0.1
+    - 0.1
+  -
+    - -0.1
+    - 0.1
+  -
+    - -0.1
+    - 0.1

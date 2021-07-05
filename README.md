@@ -1,4 +1,4 @@
-# Code for the analysis and determination of the workspace of electromagnetic navigation systems
+# Analysis and determination of the workspace of electromagnetic navigation systems
 
 ## Description
 
@@ -9,7 +9,13 @@ TO DO
 
 ### Installing dependencies
 
+#### Libraries for magnetic manipulation
+
 TO DO: installing libraries from tesla_core with apt?
+
+#### Libraries for interval analysis
+
+Install [PyInterval](https://pyinterval.readthedocs.io/en/latest/index.html) and the [python binding](https://benensta.github.io/pyIbex/) of [ibex](http://www.ibex-lib.org/).
 
 ### Installing Jupyter notebook
 
@@ -25,7 +31,7 @@ pip install jupyterlab
 
 ### Clone the Repository
 
-Clone the repository in your home folder, if cloned to a different folder some of the script will not be able to export a pdf of the plot to the folder "~/tesla_jupyter/plot_pdf".
+Clone the repository in your home folder
 
 ```
 cd ~
@@ -35,7 +41,7 @@ or download the source code and place it in your home folder.
 
 ### Launching Jupyter Lab 
 
-To launch Jupyter open a terminal and launch jupyter notebook. This will open a webbrowser window. 
+To launch Jupyter open a terminal and launch jupyter notebook. This will open a webbrowser window.
 
 ```
 jupyter lab
@@ -43,7 +49,7 @@ jupyter lab
 
 ### Launching Jupyter Notebook (alternative to Jupyter lab)
 
-To launch Jupyter open a terminal and launch jupyter notebook. This will open a webbrowser window. 
+To launch Jupyter open a terminal and launch jupyter notebook. This will open a webbrowser window.
 
 ```
 jupyter notebook
