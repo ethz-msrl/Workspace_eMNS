@@ -13,6 +13,15 @@ The repository is composed of Jupyter notebooks that can be used to reproduce th
 
 TO DO: installing libraries from tesla_core with apt?
 
+#### ipynb
+
+The utility functions used in the notebooks are defines in the notebook ```utilities.ipynb``` and imported as ```from ipynb.fs.defs.utilities import *```.
+This requires the following  package:
+
+``` bash
+pip3 install ipynb --upgrade
+```
+
 #### Libraries for interval analysis
 
 Install [PyInterval](https://pyinterval.readthedocs.io/en/latest/index.html) and the [python binding](https://benensta.github.io/pyIbex/) of [ibex](http://www.ibex-lib.org/).
@@ -23,7 +32,7 @@ The Jupyter Notebook is an open source web application that you can use to creat
 It is convenient to use Jupyter as an interactive python editor where you can run the code directely from a web browser and create some plots.
 Install pip and the Python header files, which are used by some of Jupyter’s dependencies:
 
-```
+``` bash
 sudo apt install python3-pip python3-dev
 pip install jupyter
 pip install jupyterlab
@@ -33,7 +42,7 @@ pip install jupyterlab
 
 Clone the repository in your home folder
 
-```
+``` bash
 cd ~
 git clone git@github.com:ethz-msrl/Workspace_eMNS.git
 ```
@@ -43,7 +52,7 @@ or download the source code and place it in your home folder.
 
 To launch Jupyter open a terminal and launch jupyter notebook. This will open a webbrowser window.
 
-```
+``` bash
 jupyter lab
 ```
 
@@ -51,6 +60,6 @@ jupyter lab
 
 To launch Jupyter open a terminal and launch jupyter notebook. This will open a webbrowser window.
 
-```
+``` bash
 jupyter notebook
 ```
