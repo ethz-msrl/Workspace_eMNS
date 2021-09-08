@@ -13,10 +13,10 @@ The repository is composed of Jupyter notebooks that can be used to reproduce th
 
 TO DO: installing libraries from tesla_core with apt?
 
-#### ipynb
+#### Libary for utilies functions import
 
-The utility functions used in the notebooks are defines in the notebook ```utilities.ipynb``` and imported as ```from ipynb.fs.defs.utilities import *```.
-This requires the following  package:
+The utility functions used in the notebooks are defined in ```utilities.ipynb``` and imported as ```from ipynb.fs.defs.utilities import *```.
+This requires the following package:
 
 ``` bash
 pip3 install ipynb --upgrade
