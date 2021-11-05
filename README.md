@@ -7,20 +7,36 @@ The repository is composed of Jupyter notebooks that can be used to reproduce th
 
 ## Usage
 
+### Compatibility
+
+This code was developped and tested on Linux O.S. (Ubuntu 20.04) and with Python 3.8.
+
 ### Installing dependencies
-
-#### Libraries for magnetic manipulation
-
-TO DO: installing libraries from tesla_core with apt?
 
 #### Libary for utilies functions import
 
-The utility functions used in the notebooks are defined in ```utilities.ipynb``` and imported as ```from ipynb.fs.defs.utilities import *```.
+The functions used in the notebooks are defined in ```utilities.ipynb``` and imported as ```from ipynb.fs.defs.utilities import *```.
 This requires the following package:
 
 ``` bash
 pip3 install ipynb --upgrade
 ```
+
+#### Libraries for magnetic models
+
+TO DO: import mag_manip from PyPI
+
+#### Libraries for graphics and plotting
+
+Install [Matplotlib and MPL_toolkits](https://matplotlib.org/stable/users/installing.html).
+
+#### Libraries for maths and computation
+
+Install:
+* [NumPy](https://numpy.org/install/)
+* [PyYAML](https://pypi.org/project/PyYAML/)
+* [Pandas](https://pandas.pydata.org/docs/getting_started/install.html)
+* [SciPy](https://pypi.org/project/scipy/)
 
 #### Libraries for interval analysis
 
@@ -36,6 +52,7 @@ Install pip and the Python header files, which are used by some of Jupyter’s d
 sudo apt install python3-pip python3-dev
 pip install jupyter
 pip install jupyterlab
+pip install ipywidgets
 ```
 
 ### Clone the Repository
