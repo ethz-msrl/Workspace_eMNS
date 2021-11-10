@@ -40,7 +40,7 @@ Install:
 
 #### Libraries for interval analysis
 
-Install [PyInterval](https://pyinterval.readthedocs.io/en/latest/index.html) and the [python binding](https://benensta.github.io/pyIbex/) of [ibex](http://www.ibex-lib.org/).
+Install [PyInterval](https://pyinterval.readthedocs.io/en/latest/index.html) and the [python binding](https://www.ensta-bretagne.fr/desrochers/pyibex/docs/pyibex/installation.html) of [ibex](http://www.ibex-lib.org/).
 
 ### Installing Jupyter notebook
 
