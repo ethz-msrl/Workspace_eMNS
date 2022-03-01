@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository is composed of Jupyter notebooks to determine and analyse the workspace of electromagnetic manipulation systems.
+This repository is composed of Jupyter notebooks to determine and analyse the workspace of electromagnetic navigation systems.
 
 ## Using code in pre-installed environment
 
