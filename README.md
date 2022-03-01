@@ -5,6 +5,10 @@
 This is the companion code to the submission "On the Workspace and Evaluation of Electromagnetic Navigation Systems", Boehler Q., Gervasoni S. Charreyron S.L., Chautems C., Nelson B.J.
 The repository is composed of Jupyter notebooks that can be used to reproduce the results presented in the publication, and to further analyse other electromagnetic manipulation systems.
 
+## Using code in pre-installed environment
+
+The code is available in a pre-installed environment on [CodeOcean](https://doi.org/10.24433/CO.2090933.v1).
+
 ## Usage
 
 ### Compatibility
