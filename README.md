@@ -28,7 +28,11 @@ pip3 install ipynb --upgrade
 
 #### Libraries for magnetic models
 
-TO DO: import mag_manip from PyPI
+Install libraries for magnetic manpipulation:
+
+``` bash
+pip install mag-manip
+```
 
 #### Libraries for graphics and plotting
 
