@@ -4,6 +4,17 @@
 
 This repository is composed of Jupyter notebooks to determine and analyse the workspace of electromagnetic navigation systems.
 
+
+<iframe
+    width="640"
+    height="480"
+    src="https://www.youtube.com/embed/Lax-PhrV6P4"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
+
 ## Using code in pre-installed environment
 
 The code is available in a pre-installed environment on [CodeOcean](https://doi.org/10.24433/CO.2090933.v1).
