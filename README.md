@@ -4,9 +4,21 @@
 
 This repository is composed of Jupyter notebooks to determine and analyse the workspace of electromagnetic navigation systems.
 
+### Computation of available magnetic as convex polyhedra
+
+![CardioMag eMNS - Available magnetic field](media/available_field_anim.gif)
+
+### Determination of magnetic workspace using dicretization approach or interval analysis
+
+<img src="media/interval_analysis.png" alt="drawing" width="400"/>
+
+### Experimental validation
+
+<img src="media/navion_validation.png" alt="drawing" width="400"/>
+
 ## Using code in pre-installed environment
 
-The code is available in a pre-installed environment on [CodeOcean](https://doi.org/10.24433/CO.2090933.v1).
+The code is available in a pre-installed environment on [CodeOcean](https://doi.org/10.24433/CO.2090933.v1) (release v1.0.0).
 
 ## Usage
 
