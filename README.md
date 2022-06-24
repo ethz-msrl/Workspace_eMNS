@@ -4,7 +4,7 @@
 
 This repository is composed of Jupyter notebooks to determine and analyse the workspace of electromagnetic navigation systems.
 
-### Computation of available magnetic as convex polyhedra
+### Computation of available magnetic field as convex polyhedra
 
 ![CardioMag eMNS - Available magnetic field](media/available_field_anim.gif)
 
