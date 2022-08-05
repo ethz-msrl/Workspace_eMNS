@@ -16,6 +16,10 @@ This repository is composed of Jupyter notebooks to determine and analyse the wo
 
 <img src="media/navion_validation.png" alt="drawing" width="400"/>
 
+## Publications
+
+[1] Q. Boehler et al. "[On the Workspace of Electromagnetic Navigation Systems](https://doi.org/10.1109/TRO.2022.3197107)," IEEE Transactions on Robotics, (2022).
+
 ## Using code in pre-installed environment
 
 The code is available in a pre-installed environment on [CodeOcean](https://doi.org/10.24433/CO.2090933.v1) (release v1.0.0).
