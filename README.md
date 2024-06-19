@@ -18,11 +18,13 @@ This repository is composed of Jupyter notebooks to determine and analyse the wo
 
 ## Publications
 
-[1] Q. Boehler et al. "[On the Workspace of Electromagnetic Navigation Systems](https://doi.org/10.1109/TRO.2022.3197107)," IEEE Transactions on Robotics, (2022).
+[1] Q. Boehler et al. "[On the Workspace of Electromagnetic Navigation Systems](https://doi.org/10.1109/TRO.2022.3197107)," IEEE Transactions on Robotics (2022).
+
+[2] S. Gervasoni et al. "[A Human-Scale Clinically Ready Electromagnetic Navigation System for Magnetically Responsive Biomaterials and Medical Devices](https://doi.org/10.1002/adma.202310701)," Advanced Materials (2024).
 
 ## Using code in pre-installed environment
 
-The code is available in a pre-installed environment on [CodeOcean](https://doi.org/10.24433/CO.2090933.v1) (release v1.0.0).
+The code is available in a pre-installed environment on [CodeOcean](https://doi.org/10.24433/CO.2090933.v1) (for release v1.0.0).
 
 ## Usage
 
